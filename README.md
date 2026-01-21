@@ -44,6 +44,7 @@ rodzaj etykiet / klas:
 - `mid` - odpowiedzi przeciętne
 - `high` - odpowiedzi wysokiej jakości
 
+Na samym początku proszę o uruchomienie src/data.py w celu pobrania danych do obróbki.
 licencja: CC-BY 4.0
 
 
