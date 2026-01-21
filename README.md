@@ -223,6 +223,9 @@ Wizualizacje:
     ├── models/
     ├── results/
     │
+    ├──src
+      ├── data.py
+    │
     ├── README.md
     ├── requirements.txt
     └── .gitignore
